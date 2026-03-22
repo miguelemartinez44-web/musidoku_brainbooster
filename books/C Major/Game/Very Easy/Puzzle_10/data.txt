@@ -1,0 +1,24 @@
+ID: 10
+LEVEL: Very Easy
+DIFFICULTY: 0%
+Key: C Major
+PUZZLE_GRID:
+A,B,0,𝄞,E,0,0,G,F
+0,D,𝄞,G,0,0,0,C,A
+F,♪,G,0,A,B,D,𝄞,0
+0,0,0,0,𝄞,E,F,B,G
+0,F,B,D,0,A,E,0,0
+𝄞,E,♪,B,0,0,A,0,C
+B,0,A,E,D,C,0,F,♪
+♪,𝄞,F,A,0,G,0,E,D
+0,0,0,0,♪,𝄞,G,A,0
+SOLUTION_GRID:
+A,B,C,𝄞,E,D,♪,G,F
+E,D,𝄞,G,F,♪,B,C,A
+F,♪,G,C,A,B,D,𝄞,E
+C,A,D,♪,𝄞,E,F,B,G
+G,F,B,D,C,A,E,♪,𝄞
+𝄞,E,♪,B,G,F,A,D,C
+B,G,A,E,D,C,𝄞,F,♪
+♪,𝄞,F,A,B,G,C,E,D
+D,C,E,F,♪,𝄞,G,A,B

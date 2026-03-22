@@ -1,0 +1,24 @@
+ID: 7
+LEVEL: Hard
+DIFFICULTY: 0%
+Key: C Major
+PUZZLE_GRID:
+0,0,0,C,F,0,0,0,0
+E,C,0,0,0,0,D,0,𝄞
+A,0,B,0,0,0,0,0,0
+0,B,A,0,0,0,0,F,0
+0,0,E,0,A,0,0,0,0
+0,0,0,F,E,0,0,0,0
+0,0,0,0,0,0,C,0,0
+0,0,0,0,0,0,0,0,B
+F,0,C,0,0,0,♪,E,D
+SOLUTION_GRID:
+𝄞,♪,D,C,F,E,B,G,A
+E,C,F,G,B,A,D,♪,𝄞
+A,G,B,♪,D,𝄞,F,C,E
+C,B,A,D,𝄞,G,E,F,♪
+♪,F,E,B,A,C,𝄞,D,G
+G,D,𝄞,F,E,♪,A,B,C
+B,𝄞,G,E,♪,D,C,A,F
+D,E,♪,A,C,F,G,𝄞,B
+F,A,C,𝄞,G,B,♪,E,D

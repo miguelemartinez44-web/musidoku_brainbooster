@@ -1,0 +1,24 @@
+ID: 3
+LEVEL: Very Hard
+DIFFICULTY: 0%
+Key: C Major
+PUZZLE_GRID:
+0,0,0,0,0,0,𝄞,0,0
+0,0,0,0,E,0,0,0,0
+0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,A,0,𝄞
+0,0,0,0,0,♪,0,D,0
+G,0,0,0,0,0,0,♪,0
+0,0,0,0,D,0,0,0,0
+0,0,0,G,F,C,0,0,A
+0,0,0,0,0,0,D,E,0
+SOLUTION_GRID:
+E,♪,A,D,C,B,𝄞,G,F
+𝄞,F,G,♪,E,A,C,B,D
+C,D,B,F,𝄞,G,E,A,♪
+B,E,♪,C,G,D,A,F,𝄞
+A,𝄞,F,E,B,♪,G,D,C
+G,C,D,𝄞,A,F,B,♪,E
+♪,A,𝄞,B,D,E,F,C,G
+D,B,E,G,F,C,♪,𝄞,A
+F,G,C,A,♪,𝄞,D,E,B

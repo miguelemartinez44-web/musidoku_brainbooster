@@ -1,0 +1,23 @@
+ID: 14
+LEVEL: Very Easy
+Key: C Major
+PUZZLE_GRID:
+D,0,F,A,0,0,C,0,♪
+E,A,G,♪,0,𝄞,D,F,0
+0,♪,0,B,D,F,E,0,0
+♪,G,E,𝄞,B,C,0,0,0
+0,0,D,G,0,E,0,C,𝄞
+0,0,0,0,A,D,♪,E,G
+F,C,B,D,G,A,0,♪,E
+G,D,A,0,𝄞,0,F,B,0
+𝄞,0,♪,C,0,B,G,0,D
+SOLUTION_GRID:
+D,B,F,A,E,G,C,𝄞,♪
+E,A,G,♪,C,𝄞,D,F,B
+C,♪,𝄞,B,D,F,E,G,A
+♪,G,E,𝄞,B,C,A,D,F
+A,F,D,G,♪,E,B,C,𝄞
+B,𝄞,C,F,A,D,♪,E,G
+F,C,B,D,G,A,𝄞,♪,E
+G,D,A,E,𝄞,♪,F,B,C
+𝄞,E,♪,C,F,B,G,A,D

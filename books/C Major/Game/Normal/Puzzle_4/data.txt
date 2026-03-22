@@ -1,0 +1,24 @@
+ID: 4
+LEVEL: Normal
+DIFFICULTY: 0%
+Key: C Major
+PUZZLE_GRID:
+0,E,F,0,0,A,0,0,0
+B,0,0,E,0,0,0,𝄞,0
+0,♪,0,0,G,0,D,F,0
+0,0,A,𝄞,0,0,0,D,G
+0,0,0,0,A,E,0,B,𝄞
+♪,0,0,G,0,0,0,0,F
+𝄞,B,C,0,0,G,0,0,A
+0,0,0,0,C,0,0,0,D
+G,0,0,0,0,F,𝄞,C,0
+SOLUTION_GRID:
+D,E,F,♪,𝄞,A,B,G,C
+B,C,G,E,F,D,A,𝄞,♪
+A,♪,𝄞,C,G,B,D,F,E
+E,F,A,𝄞,B,♪,C,D,G
+C,G,D,F,A,E,♪,B,𝄞
+♪,𝄞,B,G,D,C,E,A,F
+𝄞,B,C,D,E,G,F,♪,A
+F,A,♪,B,C,𝄞,G,E,D
+G,D,E,A,♪,F,𝄞,C,B
